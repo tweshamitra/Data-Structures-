@@ -1,1 +1,0 @@
-Designed an ADT
